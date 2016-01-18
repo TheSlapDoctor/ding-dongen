@@ -5,5 +5,5 @@ Project Collaborators:
 - Bobby Murray Walsh (bobby.echo13@gmail.com)
 - Caoimhín King (icaoimhin@hotmail.com)
 - Daria Joanna Mydlarz (email)
-- Eric Bickerdyke (email)
+- Eric Bickerdyke (firework2117@gmail.com)
 - Patrick O Leary (email)
