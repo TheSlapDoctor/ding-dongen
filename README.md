@@ -7,3 +7,5 @@ Project Collaborators:
 - Daria Joanna Mydlarz (daria.mydlarz@gmail.com)
 - Eric Bickerdyke (firework2117@gmail.com)
 - Patrick O Leary (patrickoleary94@hotmail.com)
+
+**For previewing html files directly from github: https://htmlpreview.github.io/**
