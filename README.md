@@ -6,4 +6,4 @@ Project Collaborators:
 - Caoimhín King (icaoimhin@hotmail.com)
 - Daria Joanna Mydlarz (daria.mydlarz@gmail.com)
 - Eric Bickerdyke (firework2117@gmail.com)
-- Patrick O Leary (email)
+- Patrick O Leary (patrickoleary94@hotmail.com)
