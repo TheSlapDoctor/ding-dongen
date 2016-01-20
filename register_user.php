@@ -11,11 +11,12 @@
 	//get data from form
 	$firstname = $_POST['firstname'];
 	$surname = $_POST['surname'];
+	$email = $_POST['email'];
 	$addr1 = $_POST['addr1'];
 	$addr2 = $_POST['addr2'];
 	$addr3 = $_POST['addr3'];
 	$county = $_POST['county'];
 
 	//call insert function
-	insertIntoUsersTable($firstname, $surname, $addr1, $addr2, $addr3, $county);
+	insertIntoUsersTable($firstname, $surname, $email, $addr1, $addr2, $addr3, $county);
 ?>
